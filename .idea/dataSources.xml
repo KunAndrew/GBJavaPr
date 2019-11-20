@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mainDB" uuid="6181b716-4b4e-4c9d-aebb-0c55a8fa9628">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Andrew\Desktop\GeekBrains_Java2_2019_10_03\GBJavaPr\mainDB.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="mainDB.db" uuid="9e7ddbd5-2e1e-4f85-b1d1-521f6820d721">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/mainDB.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
